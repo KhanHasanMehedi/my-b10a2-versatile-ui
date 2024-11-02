@@ -1,0 +1,14 @@
+*{
+    background-color: aqua;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+nav title{
+color: brown;
+}
